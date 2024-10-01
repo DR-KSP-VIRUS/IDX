@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.background {
+  @apply bg-white
+}
+
+.header {
+  @apply bg-blue-700 text-white py-3 px-5 z-50
+}
