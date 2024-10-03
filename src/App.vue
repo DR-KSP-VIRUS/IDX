@@ -16,6 +16,6 @@
 
 <script setup>
 import MainContent from './components/MainContent.vue';
-import Navbar from './components/navbar.vue';
+import Navbar from './components/Navbar.vue';
 
 </script>
