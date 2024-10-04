@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .background {
-  @apply bg-white-0 py-3 min-h-screen flex place-items-center flex-col px-8 
+  @apply bg-white-0 py-3 min-h-screen flex place-items-center flex-col px-4
 }
 
 .header {
